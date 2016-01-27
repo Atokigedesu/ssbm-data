@@ -1,0 +1,50 @@
+{
+    "FinalDestination": {
+        "blastLine": {
+            "higher": 188,
+            "lower": -140,
+            "right": 246,
+            "left": -246
+        }
+    },
+    "DreamLand": {
+        "blastLine": {
+            "higher": 250,
+            "lower": -124,
+            "right": 255,
+            "left": -255
+        }
+    },
+    "Battlefield": {
+        "blastLine": {
+            "higher": 200,
+            "lower": -108,
+            "right": 224,
+            "left": -224
+        }
+    },
+    "FountainOfDreams": {
+        "blastLine": {
+            "higher": 202,
+            "lower": -146,
+            "right": 198,
+            "left": -198
+        }
+    },
+    "PokemonStadium": {
+        "blastLine": {
+            "higher": 180,
+            "lower": -111,
+            "right": 230,
+            "left": -230
+        }
+    },
+    "YoshiStory": {
+        "blastLine": {
+            "higher": 168,
+            "lower": -91,
+            "right": 173,
+            "left": -175
+        }
+    }
+}
