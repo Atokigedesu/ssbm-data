@@ -12,9 +12,10 @@
     "mocha": "^2.3.4"
   },
   "files": [
-    "README.md",
+    "lib",
+    "LICENSE",
     "package.json",
-    "lib"
+    "README.md"
   ],
   "license": "MIT",
   "main": "lib/main.js",
